@@ -10,7 +10,7 @@ Only some of my favorite problems and solutions are posted here!
 - Problems from Leetcode
 - Random Problems
 
-**DMOJ and Leetcode has taught me**
+## DMOJ and Leetcode has taught me
 - Breadth First Search
 - Depth First Search
 - Recursion
@@ -19,14 +19,14 @@ Only some of my favorite problems and solutions are posted here!
 - Binary Trees
 - LinkeLists
 
-**To Practice**
+## To Practice
 - [ ] Dynamic Programming
 - [ ] DFS
 - [ ] Greedy Algorithms
 - [ ] Binary Trees
 - [ ] LinkeLists
 
-**To Learn**
+## To Learn
 - [ ] Divide and Conquer approach
 - [ ] String Algorithms
 - [ ] Game Theory
