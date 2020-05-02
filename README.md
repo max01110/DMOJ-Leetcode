@@ -1,6 +1,8 @@
 # DMOJ-Leetcode
 Solutions to DMOJ and Leetcode Problems
 
+Only some of my favorite problems and solutions are posted here!
+
 **DMOJ and Leetcode has taught me**
 - Breadth First Search
 - Depth First Search
