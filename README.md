@@ -12,9 +12,14 @@ Only some of my favorite problems and solutions are posted here!
 - Binary Trees
 - LinkeLists
 
-**To Practice**:
+**To Practice**
 - [ ] Dynamic Programming
 - [ ] DFS
 - [ ] Greedy Algorithms
 - [ ] Binary Trees
 - [ ] LinkeLists
+
+**To Learn**
+- [ ] Divide and Conquer approach
+- [ ] String Algorithms
+- [ ] Game Theory
