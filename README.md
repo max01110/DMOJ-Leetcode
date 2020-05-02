@@ -2,6 +2,11 @@
 Solutions to DMOJ and Leetcode Problems
 
 Only some of my favorite problems and solutions are posted here!
+#Includes#
+- Problems from CCC
+- Problems from ECOO
+- Random Problems
+- Problems from Leetcode
 
 **DMOJ and Leetcode has taught me**
 - Breadth First Search
