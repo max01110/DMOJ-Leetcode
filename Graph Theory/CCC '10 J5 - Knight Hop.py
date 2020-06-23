@@ -1,3 +1,6 @@
+/*
+https://dmoj.ca/problem/ccc10j5
+*/
 initial = list(map(int, input().split(" ")))
 final = list(map(int, input().split(" ")))
 
