@@ -1,43 +1,4 @@
-'''
-nums = [-1,0,1,2,-1,-4]
-l = []
-t = True
-
-for i in range(len(nums)):
-    t = True
-    for y in range(i+1, len(nums)):
-        t = True
-        for j in range(y+1, len(nums)):
-            t = True;
-           # print(nums[i],nums[y],nums[j])
-            if nums[i]+nums[y]+nums[j]==0:
-                for k in l:
-                    a = k[:]
-                    if nums[i] in a:
-                        a.remove(nums[i])
-                        if nums[y]in a:
-                            a.remove(nums[y])
-                            if nums[j] in a:
-                                t = False
-                if t==True:
-                    l.append([nums[i], nums[y], nums[j]])
-
-
-l  = []
-for i in range(len(nums)):
-    for y in range(i+1, len(nums)):
-        a = nums[:]
-        a.remove(nums[i])
-        a.remove(nums[y])
-        if (nums[i]+nums[y])*-1 in a:
-            if sorted([nums[i], nums[y], (nums[i]+nums[y])*-1]) not in l:
-                l.append(sorted([nums[i], nums[y], (nums[i]+nums[y])*-1]))
-      
-
-print(l)
-
-'''
-
+#https://leetcode.com/problems/4sum/
 
 book,bob={},[]
 for i in range(len(nums)):
